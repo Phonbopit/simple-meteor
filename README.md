@@ -1,4 +1,4 @@
 simple-meteor
 =============
 
-Simple Meteorjs
+Learn meteor.js 
